@@ -1,10 +1,5 @@
 @echo off
-
-
 title Weather Report - Kotli
-
 color 0A
-
 curl wttr.in/Kotli?0
-
 pause
